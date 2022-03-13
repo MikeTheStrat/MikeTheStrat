@@ -1,7 +1,7 @@
 # 👋 Welcome! I am Michael Arrigo.👋
 
  - 🏫 Computer Science student at Lewis University 🏫
- - 🎸🥁 Guitar, Bass, and Drum enthusiast 🎸🥁
+ - 🎸🥁 Guitar, Bass, and Drum enthusiast 🥁🎸
  - 🎶 Currently working on a musical KeyFinder webpage! 🎶
  - 🎓 Learning about Scrum, MEAN Full-Stack, and more! 🎓
 <!--
