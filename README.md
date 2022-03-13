@@ -1,5 +1,9 @@
-### Hi there 👋
+### 👋 Welcome 👋
 
+I am Michael Arrigo.
+ - 🧑‍🎓 CompSci Student at Lewis University 🧑‍🎓
+ - 🎸 Guitar + Bass 🎸 + 🥁 Drum enthusiast 🥁
+ - 
 <!--
 **MikeTheStrat/MikeTheStrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
