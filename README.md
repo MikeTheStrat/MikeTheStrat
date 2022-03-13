@@ -1,5 +1,5 @@
-## 👋 Welcome,  I am Michael Arrigo.👋
-<p align="center">
+# 👋 Welcome, I am Michael Arrigo.👋
+<p font-size=24>
  - 🏫 CompSci Student at Lewis University 🏫
  - 🎸🥁 Guitar, Bass, and Drum enthusiast 🎸🥁
  - 🎶Currently working on a music key finder webpage!🎶
