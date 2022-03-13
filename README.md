@@ -1,6 +1,6 @@
-# 👋 Welcome, I am Michael Arrigo.👋
+# 👋 Welcome! I am Michael Arrigo.👋
 
- - 🏫 CompSci Student at Lewis University 🏫
+ - 🏫 Computer Science Student at Lewis University 🏫
  - 🎸🥁 Guitar, Bass, and Drum enthusiast 🎸🥁
  - 🎶Currently working on a music key finder webpage!🎶
 <!--
