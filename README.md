@@ -1,8 +1,8 @@
 # 👋 Welcome! I am Michael Arrigo.👋
 
- - 🏫 Computer Science Student at Lewis University 🏫
+ - 🏫 Computer Science student at Lewis University 🏫
  - 🎸🥁 Guitar, Bass, and Drum enthusiast 🎸🥁
- - 🎶Currently working on a music key finder webpage!🎶
+ - 🎶 Currently working on a musical KeyFinder webpage! 🎶
 <!--
 **MikeTheStrat/MikeTheStrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
