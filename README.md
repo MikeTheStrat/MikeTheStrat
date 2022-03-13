@@ -3,6 +3,7 @@
  - 🏫 Computer Science student at Lewis University 🏫
  - 🎸🥁 Guitar, Bass, and Drum enthusiast 🎸🥁
  - 🎶 Currently working on a musical KeyFinder webpage! 🎶
+ - 🎓 Learning about Scrum, MEAN Full-Stack, and more! 🎓
 <!--
 **MikeTheStrat/MikeTheStrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
