@@ -1,9 +1,8 @@
 # 👋 Welcome, I am Michael Arrigo.👋
-<p font-size=24>
+
  - 🏫 CompSci Student at Lewis University 🏫
  - 🎸🥁 Guitar, Bass, and Drum enthusiast 🎸🥁
  - 🎶Currently working on a music key finder webpage!🎶
-</p>
 <!--
 **MikeTheStrat/MikeTheStrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
